@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>test</title>
+    <url>/test/</url>
+    <content><![CDATA[<h2 id="VUEX"><a href="#VUEX" class="headerlink" title="VUEX"></a>VUEX</h2><p>✔️vue😈x是vue的工公共状态管理库</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">var a &#x3D; 1;</span><br><span class="line">console.log(a)</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Diary</category>
+        <category>LifeI</category>
+      </categories>
+      <tags>
+        <tag>vuex</tag>
+        <tag>jjj</tag>
+        <tag>kansda</tag>
+        <tag>kasas</tag>
+        <tag>ms;dmf</tag>
+        <tag>maskd</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>markdown语法</title>
+    <url>/markdown%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><a id="more"></a>
+
+
+<ul>
+<li>标题<blockquote>
+<p>一级标题到六级标题#</p>
+</blockquote>
+</li>
+</ul>
+<blockquote>
+<p>【图片】(xxxx)</p>
+</blockquote>
+<ul>
+<li>图片链接有按钮<br><a href="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3121582220,3086993941&fm=26&gp=0.jpg">美女图片</a></li>
+</ul>
+<blockquote>
+<p>!【图片】(xxxx)</p>
+</blockquote>
+<ul>
+<li>图片链接没有按钮<br><img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3121582220,3086993941&fm=26&gp=0.jpg"></li>
+</ul>
+<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3121582220,3086993941&fm=26&gp=0.jpg" width="40%" height="40%">
+
+<ul>
+<li>粗体和斜体</li>
+</ul>
+<p><em>粗体一个※包起来</em><br><strong>粗体两个※包起来</strong></p>
+<ul>
+<li>引用</li>
+</ul>
+<blockquote>
+<p>引用，在被引用的语句前加上一个尖角号<br>盛年不重来，一日难再晨。及时宜自勉，岁月不待人。——陶渊明<br>敏而好学，不耻下问。——孔子<br>海纳百川有容乃大；壁立千仞无欲则刚。——林则徐<br>君子之交淡若水，小人之交甘若醴，君子淡以亲，小人甘以绝。——庄子</p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
